@@ -6,6 +6,7 @@ Covid-19 Aware Resources
 ## Educational
 
 - [CDC Covid-19 Information Page](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
+- [Coronavirus Tech Handbook](https://coronavirustechhandbook.com/techcommunities)
 - [Kurzgesagt's explanation of what the Novel Coronavirus](https://www.youtube.com/watch?v=BtN-goy9VOY)
 - [WHO Covid 19 Videos](https://www.youtube.com/channel/UCHO_S43E1v5dBR_HLnhEYAw/featured)
 - [Models of Covid-19 outbreak trajectories](https://github.com/neherlab/covid19_scenarios)
@@ -45,11 +46,16 @@ Notable organizations helping out with Covid-19 relief.
 
 ### Donating
 
+- [Mask Match](https://www.mask-match.com/)
 - National Domestic Workers Alliance - [https://domesticworkers.org/coronavirus-care-fund](https://domesticworkers.org/coronavirus-care-fund)
 - American Red Cross - [https://www.redcrossblood.org/donate-blood/dlp/coronavirus--covid-19--and-blood-donation.html](https://www.redcrossblood.org/donate-blood/dlp/coronavirus--covid-19--and-blood-donation.html)
 - Feeding America - [https://www.feedingamerica.org/](https://www.feedingamerica.org/)
 - Homeless Shelters - [https://www.homelessshelterdirectory.org/contact.html](https://www.homelessshelterdirectory.org/contact.html)
 - Meals on Wheels - [https://www.mealsonwheelsamerica.org/](https://www.mealsonwheelsamerica.org/)
+
+### Hackathons
+
+- [COVID-19 Global Hackathon](https://covid-global-hackathon.devpost.com/)
 
 ### Volunteering
 
