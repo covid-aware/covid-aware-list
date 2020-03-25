@@ -20,8 +20,6 @@ Data sources for crisis response applications.
 - US Counties - [https://infection2020.com/](https://infection2020.com/)
 - US & Canada - [https://coronavirus.1point3acres.com/en](https://coronavirus.1point3acres.com/en)
 
----
-
 ### Educational
 
 - CDC COVID-19 Information Page - [https://www.cdc.gov/coronavirus/2019-nCoV/index.html](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
@@ -37,8 +35,6 @@ Data sources for crisis response applications.
     - Bay Area Covid-19 info 0 [covid19bay.info](http://covid19bay.info/)
     - New Jersey Jobs - [https://jobs.covid19.nj.gov/](https://jobs.covid19.nj.gov/)
 
----
-
 ## Notable Organizations
 
 ### Donating
@@ -53,8 +49,6 @@ Data sources for crisis response applications.
 
 - Crowdsourcing Research - [https://crowdfightcovid19.org/](https://crowdfightcovid19.org/)
 - Private Kit - [https://privatekit.mit.edu/](https://privatekit.mit.edu/)
-
----
 
 ## Screening/Testing
 
