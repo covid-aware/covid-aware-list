@@ -12,6 +12,8 @@ Data sources for crisis response applications.
 
 ## News and Resources
 
+New and resources to stay up-to-date and informed.
+
 ### Real-time Infection Data
 
 - [https://www.ft.com/coronavirus-latest](https://www.ft.com/coronavirus-latest)
@@ -36,6 +38,8 @@ Data sources for crisis response applications.
     - New Jersey Jobs - [https://jobs.covid19.nj.gov/](https://jobs.covid19.nj.gov/)
 
 ## Notable Organizations
+
+Notable organizations helping out with Covid-19 relief.
 
 ### Donating
 
