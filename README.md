@@ -5,9 +5,10 @@ Covid-19 Aware Resources
 
 ## Educational
 
-- CDC Covid-19 Information Page - [https://www.cdc.gov/coronavirus/2019-nCoV/index.html](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
-- Kurzgesagt's explanation of what the Novel Coronavirus - [https://www.youtube.com/watch?v=BtN-goy9VOY](https://www.youtube.com/watch?v=BtN-goy9VOY)
-- WHO Covid 19 Videos - [https://www.youtube.com/channel/UCHO_S43E1v5dBR_HLnhEYAw/featured](https://www.youtube.com/channel/UCHO_S43E1v5dBR_HLnhEYAw/featured)
+- [CDC Covid-19 Information Page](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
+- [Kurzgesagt's explanation of what the Novel Coronavirus](https://www.youtube.com/watch?v=BtN-goy9VOY)
+- [WHO Covid 19 Videos](https://www.youtube.com/channel/UCHO_S43E1v5dBR_HLnhEYAw/featured)
+- [Models of Covid-19 outbreak trajectories](https://github.com/neherlab/covid19_scenarios)
 
 ## Data Sources
 
