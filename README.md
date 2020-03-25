@@ -61,3 +61,7 @@ Notable organizations helping out with Covid-19 relief.
 - Carbon Health - [https://carbonhealth.com/coronavirus](https://carbonhealth.com/coronavirus)
 - US Covid Testing Locations - [https://findcovidtesting.com/](https://findcovidtesting.com/)
 - Verily - [https://verily.com](http://verily.com)
+
+## Staying Healthy
+- [Steps to Help Cope with Evolving Coronavirus Situation](https://www.redcross.org/about-us/news-and-events/news/2020/steps-to-help-cope-with-evolving-coronavirus-situation.html)
+- [Coping with coronavirus anxiety](https://www.health.harvard.edu/blog/coping-with-coronavirus-anxiety-2020031219183)
