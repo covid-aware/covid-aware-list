@@ -1,7 +1,7 @@
-COVID Aware Resources
+Covid-19 Aware Resources
 =====================
 
-> A curated page containing a list of resources related to COVID-19.
+> A curated page containing a list of resources related to Covid-19.
 
 ## Data Sources
 
@@ -22,7 +22,7 @@ Data sources for crisis response applications.
 
 ### Educational
 
-- CDC COVID-19 Information Page - [https://www.cdc.gov/coronavirus/2019-nCoV/index.html](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
+- CDC Covid-19 Information Page - [https://www.cdc.gov/coronavirus/2019-nCoV/index.html](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
 - Kurzgesagt's explanation of what the Novel Coronavirus - [https://www.youtube.com/watch?v=BtN-goy9VOY](https://www.youtube.com/watch?v=BtN-goy9VOY)
 - WHO Covid 19 Videos - [https://www.youtube.com/channel/UCHO_S43E1v5dBR_HLnhEYAw/featured](https://www.youtube.com/channel/UCHO_S43E1v5dBR_HLnhEYAw/featured)
 
@@ -31,7 +31,7 @@ Data sources for crisis response applications.
 - Japan
     - [https://github.com/tokyo-metropolitan-gov/covid19](https://github.com/tokyo-metropolitan-gov/covid19)
 - USA
-    - COVID Act Now - [https://covidactnow.org/](https://covidactnow.org/)
+    - Covid Act Now - [https://covidactnow.org/](https://covidactnow.org/)
     - Bay Area Covid-19 info 0 [covid19bay.info](http://covid19bay.info/)
     - New Jersey Jobs - [https://jobs.covid19.nj.gov/](https://jobs.covid19.nj.gov/)
 
@@ -53,5 +53,5 @@ Data sources for crisis response applications.
 ## Screening/Testing
 
 - Carbon Health - [https://carbonhealth.com/coronavirus](https://carbonhealth.com/coronavirus)
-- US COVID Testing Locations - [https://findcovidtesting.com/](https://findcovidtesting.com/)
+- US Covid Testing Locations - [https://findcovidtesting.com/](https://findcovidtesting.com/)
 - Verily - [https://verily.com](http://verily.com)
