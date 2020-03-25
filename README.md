@@ -31,10 +31,10 @@ New and resources to stay up-to-date and informed.
 ### Regional Information
 
 - Japan
-    - [https://github.com/tokyo-metropolitan-gov/covid19](https://github.com/tokyo-metropolitan-gov/covid19)
+    - [Tokyo Covid-19 Task Force Website](https://github.com/tokyo-metropolitan-gov/covid19](https://github.com/tokyo-metropolitan-gov/covid19)
 - USA
     - Covid Act Now - [https://covidactnow.org/](https://covidactnow.org/)
-    - Bay Area Covid-19 info 0 [covid19bay.info](http://covid19bay.info/)
+    - Bay Area Related Info - [covid19bay.info](http://covid19bay.info/)
     - New Jersey Jobs - [https://jobs.covid19.nj.gov/](https://jobs.covid19.nj.gov/)
 
 ## Notable Organizations
