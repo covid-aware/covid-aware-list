@@ -3,6 +3,12 @@ Covid-19 Aware Resources
 
 > A curated page containing a list of resources related to Covid-19.
 
+## Educational
+
+- CDC Covid-19 Information Page - [https://www.cdc.gov/coronavirus/2019-nCoV/index.html](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
+- Kurzgesagt's explanation of what the Novel Coronavirus - [https://www.youtube.com/watch?v=BtN-goy9VOY](https://www.youtube.com/watch?v=BtN-goy9VOY)
+- WHO Covid 19 Videos - [https://www.youtube.com/channel/UCHO_S43E1v5dBR_HLnhEYAw/featured](https://www.youtube.com/channel/UCHO_S43E1v5dBR_HLnhEYAw/featured)
+
 ## Data Sources
 
 Data sources for crisis response applications.
@@ -21,12 +27,6 @@ New and resources to stay up-to-date and informed.
 - [https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 - US Counties - [https://infection2020.com/](https://infection2020.com/)
 - US & Canada - [https://coronavirus.1point3acres.com/en](https://coronavirus.1point3acres.com/en)
-
-### Educational
-
-- CDC Covid-19 Information Page - [https://www.cdc.gov/coronavirus/2019-nCoV/index.html](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
-- Kurzgesagt's explanation of what the Novel Coronavirus - [https://www.youtube.com/watch?v=BtN-goy9VOY](https://www.youtube.com/watch?v=BtN-goy9VOY)
-- WHO Covid 19 Videos - [https://www.youtube.com/channel/UCHO_S43E1v5dBR_HLnhEYAw/featured](https://www.youtube.com/channel/UCHO_S43E1v5dBR_HLnhEYAw/featured)
 
 ### Regional Information
 
