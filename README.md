@@ -16,6 +16,7 @@ Data sources for crisis response applications.
 
 - [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
 - [https://github.com/nat236919/Covid2019API](https://github.com/nat236919/Covid2019API)
+- [https://covidtracking.com/](https://covidtracking.com/)
 
 ## News and Resources
 
