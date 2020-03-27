@@ -80,6 +80,7 @@ Notable organizations helping out with Covid-19 relief.
 
 ## Screening/Testing
 
+- [Apple Covid19 Screening](https://www.apple.com/covid19) -  Quick screening on whether you should practice social distancing, self-isolation, or if you should seek to get tested ⭐️
 - [Carbon Health](https://carbonhealth.com/coronavirus)
 - [US Covid Testing Locations](https://findcovidtesting.com/)
 - [Verily](http://verily.com)
