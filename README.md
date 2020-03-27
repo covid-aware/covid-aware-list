@@ -52,6 +52,7 @@ Notable organizations helping out with Covid-19 relief.
 - Feeding America - [https://www.feedingamerica.org/](https://www.feedingamerica.org/)
 - Homeless Shelters - [https://www.homelessshelterdirectory.org/contact.html](https://www.homelessshelterdirectory.org/contact.html)
 - Meals on Wheels - [https://www.mealsonwheelsamerica.org/](https://www.mealsonwheelsamerica.org/)
+- [Give2SF](https://sf.gov/give-city-respond-covid-19) - Make a tax-deductible donation to the City of San Francisco to help with efforts around shelter, food and other assistance to individuals affected by Covid-19.
 
 ### Hackathons
 
