@@ -49,7 +49,7 @@ New and resources to stay up-to-date and informed.
 
 #### USA
 - [Covid Act Now](https://covidactnow.org/)
-- [Bay Area Related Info](covid19bay.info)
+- [Covid19Bay](https://covid19bay.info)
 
 ## Notable Organizations
 Notable organizations helping out with Covid-19 relief.
