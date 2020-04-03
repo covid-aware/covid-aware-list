@@ -14,6 +14,7 @@ General
 - [Kurzgesagt's explanation of what the Novel Coronavirus](https://www.youtube.com/watch?v=BtN-goy9VOY) ⭐️
 - [WHO Covid 19 Videos](https://www.youtube.com/channel/UCHO_S43E1v5dBR_HLnhEYAw/featured)
 - [Models of Covid-19 outbreak trajectories](https://github.com/neherlab/covid19_scenarios)
+- [How the Pandemic Will End - The Atlantic](https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/)
 
 ## Data Sources
 
