@@ -32,8 +32,8 @@ New and resources to stay up-to-date and informed.
 
 #### USA
 
-[New Jersey, NJ](https://jobs.covid19.nj.gov/)
-[Los Angeles, CA](https://lajobportal.com/)
+- [New Jersey, NJ](https://jobs.covid19.nj.gov/)
+- [Los Angeles, CA](https://lajobportal.com/)
 
 ### Real-time Infection Data
 
