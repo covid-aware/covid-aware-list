@@ -37,6 +37,7 @@ New and resources to stay up-to-date and informed.
 
 ### Real-time Infection Data
 
+- [Covid-19 Projections (by state)](https://covid19.healthdata.org/projections)
 - [Financial Times](https://www.ft.com/coronavirus-latest)
 - [NCOV2019](https://ncov2019.live/data)
 - [Johns Hopkins University (Global)](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
